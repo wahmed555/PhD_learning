@@ -1,0 +1,125 @@
+Bus 6ESF001TB fails to operate,Bus,
+Bus EAB001TB fails to operate,,
+Bus EAA001TB fails to operate,, fails to operate
+Bus EAA001TB fails to operate,, fails to operate
+Bus EAE001TB fails to operate,, fails to operate
+Bus EAW001TB fails to operate,, fails to operate
+Bus EAY001TB fails to operate,, fails to operate
+Bus ECA001TB fails to operate,, fails to operate
+Bus ECB001TB fails to operate,, fails to operate
+Bus EDA001TB fails to operate,, fails to operate
+Bus EDB001TB  fails to operate,, fails to operate
+Bus EDG001TB fails to operate,, fails to operate
+Bus EEA001TB fails to operate,, fails to operate
+,,
+Recirculation fan VCP001ZV fails to start,Fan, fails to start
+Recirculation fan VCP001ZV fails to operate(>1h?,,
+Recirculation fan VCP001ZV fails to operate(<1h?,,
+Recirculation fan VCP001ZVunavailability due to test and maintenance,,unavailability due to test and maintenance
+Recirculation fan VCP002ZV fails to start,, fails to start
+Recirculation fan VCP002ZV fails to operate(>1h?,, fails to operate
+Recirculation fan VCP002ZV fails to operate(<1h?,, fails to operate(<1h?
+Recirculation fan VCP002ZV unavailability due to test and maintenance,,unavailability due to test and maintenance
+Forced-draft-fan VNA001ZV fails to operate,, fails to operate
+Orifice WCC055DI blockage,,
+Orifice WCC056DI blockage,, blockage
+Orifice WCC057DI blockage,, blockage
+Orifice WCC058DI blockage,, blockage
+Orifice WCC181DI blockage,, blockage
+Orifice WCC281DI blockage,, blockage
+Orifice WEC001KD blockage,, blockage
+Motor-operated fire damper VNA155VAF spurious operation,,spurious operation
+Motor-operated fire damper VNA156VAF large external leakage,, large external leakage
+Motor-operated fire damper VNA156VAF small external leakage ,,small external leakage 
+Motor-operated fire damper VNA156VAF spurious operation,,
+,,
+Reactor pump circuit breaker RCS011JA refuses to open,,refuses to open
+Reactor pump circuit breaker RCS012JA refuses to open,,refuses to open
+Reactor pump circuit breakerRCS021JA refuses to open,,refuses to open
+Reactor pump circuit breaker RCS022JA refuses to open,,refuses to open
+Reactor pump circuit breaker RCS031JA refuses to open,,refuses to open
+Reactor pump circuit breaker RCS032JA refuses to open,,refuses to open
+380V switch refuses to close,, refuses to close
+380V switch  spurious operation,, spurious operation
+380V switch refuses to close,, refuses to close
+,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+6.6kV switch refuses to close,,
+6.6kV switch spurious operation  ,,
+6.6kV switch refuses to close,,
+6.6kV switch spurious operation  ,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+Fan VCP001ZV 380V power switch refuses to close,,
+Fan VCP001ZV 380V power switch spurious operation,,
+Fan VCP002ZV 380V power switch refuses to close,,
+Fan VCP002ZV 380V power spurious operation,,
+380V contactor fails to operate,,
+380V contactor fails to operate,,
+380V contactor fails to operate,,
+380V contactor refuses to close,,
+380V contactor fails to operate,,
+380V contactor refuses to close,,
+380V contactor fails to operate,,
+380V contactor fails to operate,,
+380V contactor fails to operate,,
+380V contactor refuses to close,,
+380V contactor fails to operate,,
+380V contactor refuses to close,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V power switch refuses to close,,
+6.6kV switch spurious operation,,
+6.6kV switch spurious operation,,
+6.6kV switch refuses to close,,
+6.6kV switch spurious operation,,
+6.6kV switch refuses to close,,
+6.6kV switch spurious operation,,
+6.6kV switch refuses to close,,
+6.6kV switch spurious operation,,
+6.6kV switch refuses to close,,
+6.6kV switch spurious operation,,
+6.6kV switch refuses to close,,
+6.6kV switch spurious operation,,
+6.6kV switch refuses to close,,
+6.6kV switch spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+380V switch refuses to close,,
+380V switch  spurious operation,,
+6.6kV switch spurious operation,,
